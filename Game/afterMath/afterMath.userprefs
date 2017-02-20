@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Adventure Scripts\GameManager.js">
+    <Files>
+      <File FileName="Assets\Adventure Scripts\EForce.js" Line="6" Column="29" />
+      <File FileName="Assets\Adventure Scripts\fireScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Adventure Scripts\WalkingSound.js" Line="3" Column="1" />
+      <File FileName="Assets\Adventure Scripts\DragRigidbody.js" Line="4" Column="23" />
+      <File FileName="Assets\Adventure Scripts\GameManager.js" Line="139" Column="1" />
+      <File FileName="Assets\Adventure Scripts\Interactor.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

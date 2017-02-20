@@ -1,0 +1,45 @@
+Public class Playerclass
+{
+
+	private var x; 
+	private var y; 
+	private var isJumping;
+	private var isAttacking;
+	private var lives;
+
+	public function moveLeft() 
+	public function moveRight()
+	public function Jump()
+	public function Attack()
+	public function loseLife()
+}
+public Class Enemyclass
+{
+	private var x;
+	private var y;
+	private var isAttacking;
+	private var lives;
+	private var Ai;
+
+	public function setAi(AiCommand)
+	public function	moveLeft()
+	public function moveRight()
+	public function Attack()
+	public function loseLife()
+}
+public Class Bossclass
+{
+	private var x;
+	private var y;
+	private var isAttacking;
+	private var lives;
+	private var Ai;
+	private var health;
+
+	public function setAi(AiCommand)
+	public function moveLeft()
+	public function moveRight()
+	public function Attack()
+	public function loseLife()
+	public function loseHealth(healthAmmount)
+}

@@ -1,0 +1,40 @@
+#footer{
+    position:fixed;
+    height:20px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	line-height: 1.5em;
+	font-size: 1.2em;
+    padding: 40px 0px 0px 400px;
+    width: 75%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+
+ol {
+	font-size: 1.2em;
+    padding: 40px 0px 0px 400px;
+    width: 75%;
+    margin: 120px;
+    font-family: Arial;
+}
+
+img	{
+	float: right;
+    width: 400px;
+    margin: 0 0 10px 10px;
+    
+}
+
+
+

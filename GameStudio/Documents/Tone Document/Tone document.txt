@@ -1,0 +1,20 @@
+Tone Document
+Team Smack'em Up 
+Kenneth Perry and Joe Anderson
+In our game we will be featuring samurai's as the people in our game. These samurai's are your average looking samurai like so: 
+  
+
+Our game will also feature ninjas. Our ninjas will look similar to these:
+ 
+
+Some of the ninjas in our game will use kunai's to throw at the players. These kunais will look like the traditional kunai's:
+ 
+
+In our game players will be able to pick up health orbs to replenish there lost health. Healths orbs will look something like this:
+ 
+ 
+
+
+
+
+

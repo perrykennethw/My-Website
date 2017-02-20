@@ -1,0 +1,10 @@
+Object List
+Team Smack'em Up 
+Kenneth Perry and Joe Anderson
+In our game we will have several game objects including the characters themselves
+Object list:
+	Samurai
+	ninjas
+	Health orbs
+	Kunai
+	
